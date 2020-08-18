@@ -1,16 +1,14 @@
-## Hi 👋 Welcome to my profile
+## Olá 👋 Bem-vindo ao meu portfólio.
 
-<!--
-**Rodolfo-87/Rodolfo-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rodolfo, sou Desenvolvedor Front-end Júnior, novo na área.
+Iniciei na área e nos estudos desde o ano de 2019, anteriormente trabalhava
+na área administrativa.
 
-Here are some ideas to get you started:
+O que mais me motivou à ingressar nessa área, foi a sua dimensão de possibilidades. Sua forma dinâmica de desenvolver aplicações e soluções para diversas pessoas. 😃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aprendendo sempre! 👊
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/rodolfo-ferreira-ref87/)
+
+
+

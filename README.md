@@ -8,7 +8,7 @@ O que mais me motivou à ingressar nessa área, foi a sua dimensão de possibili
 
 Aprendendo sempre! 👊
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/rodolfo-ferreira-ref87/)
+
 
 
 

@@ -1,6 +1,6 @@
 ## Olá 👋 Bem-vindo ao meu portfólio.
 
-Meu nome é Rodolfo, sou Desenvolvedor Front-end Júnior, sou novíssimo na área.
+Meu nome é Rodolfo, sou novíssimo na área de Desenvolvedor Front-end Júnior.
 Iniciei na área e nos estudos desde o ano de 2019, anteriormente trabalhava
 na área administrativa.
 

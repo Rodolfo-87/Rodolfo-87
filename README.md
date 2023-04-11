@@ -6,7 +6,7 @@
     <br />
     <div>
         <div>
-            <a href="https://github.com/Rodolfo-87/Rodolfo-87" style="display:flex;align-items: flex-start;justify-content:flex-start;">
+            <a href="https://github.com/Rodolfo-87" style="display:flex;align-items: flex-start;justify-content:flex-start;">
                 <img  src="https://github-readme-stats.vercel.app/api?username=Rodolfo-87&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
                 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-87&layout=compact&langs_count=16&theme=dark" />
             </a>
@@ -32,6 +32,9 @@
                 <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
                     <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
                 </a>
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+                    <img align="center" alt="Graphqp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> 
+                </a>                   
             </div>
         </div>
     </div>

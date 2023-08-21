@@ -31,10 +31,7 @@
                 </a>
                 <a title="SASS" target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
                     <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-                </a>
-                <a title="Graphql" target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-                    <img align="center" alt="Graphqp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> 
-                </a>                   
+                </a>                  
             </div>
         </div>
     </div>

@@ -5,7 +5,7 @@
         Sou formado em Gestão da Tecnologia da Informação, desde então fiz diversos cursos específicos para área de Front-end e sempre busco me aperfeiçoar em novas tecnologias de mercado.<br/>
         Possuo experiência nas plataformas de e-commerce: VTEX e Shopify.
     </p>
-    <p> Perfil corporativo, contribuição em Lojas plataforma Deco.cx - https://github.com/RodolfoN1 </p>
+    <p> Perfil corporativo, contribuição em Lojas plataforma Deco.cx - <a href="https://github.com/RodolfoN1" target="_blank">https://github.com/RodolfoN1</a> </p>
     <br />
     <div>
         <div>
